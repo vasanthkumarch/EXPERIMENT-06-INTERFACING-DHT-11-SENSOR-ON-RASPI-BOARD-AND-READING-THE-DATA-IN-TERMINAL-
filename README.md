@@ -1,8 +1,8 @@
  ### Experiment No.: 06 – Interfacing DHT11 Sensor on Raspberry Pi
-NAME:
-ROLL NO:
-DEPARTMENT:
-DATE:
+### NAME:
+### ROLL NO:
+### DEPARTMENT:
+### DATE:
 
 ## AIM:
 To interface the DHT11 temperature and humidity sensor with Raspberry Pi and read real-time environmental data using Python.
